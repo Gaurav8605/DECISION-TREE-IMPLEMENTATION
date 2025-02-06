@@ -51,3 +51,5 @@ Finally, the trained decision tree is visualized using tree.plot_tree(DT, filled
 
 Conclusion
 This code effectively demonstrates how to implement a Decision Tree Classifier on the Iris dataset. It follows a structured approach—data loading, preprocessing, model training, evaluation, and visualization—making it a comprehensive example for beginners in machine learning. The results offer insights into how decision trees classify different Iris species based on their features.
+
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/7e23354e-62d0-49ac-b6aa-bba171dd7c8b)
